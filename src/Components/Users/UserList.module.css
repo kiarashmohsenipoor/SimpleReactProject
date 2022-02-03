@@ -1,7 +1,8 @@
 .users {
     margin: 2rem auto;
-    width: 90%;
+    width: 40%;
     max-width: 40rem;
+    text-align: center;
 }
 
 .users ul {
