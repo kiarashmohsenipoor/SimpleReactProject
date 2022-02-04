@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Demo of this project
+Go to [Demo](https://simple-react-project.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
